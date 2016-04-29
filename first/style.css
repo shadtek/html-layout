@@ -1,0 +1,29 @@
+.navbar-default {
+	background-color: #444444;
+}
+
+.navbar {
+	margin-bottom: 0px;
+	height: 20vh;
+}
+
+.content {
+	min-height: 80vh;
+}
+
+.side {
+	background-color: #D8D8D8;
+	min-height: 80vh;
+}
+.middle {
+	background-color: #EFEFEF;
+}
+.main-area {
+	height: 70vh
+}
+
+.footer {
+	background-color: #222222;
+	color: #FFFFFF;
+	height: 10vh;
+}
