@@ -15,9 +15,13 @@
 	background-color: #D8D8D8;
 	min-height: 80vh;
 }
+
 .middle {
 	background-color: #EFEFEF;
+	padding-left: 0;
+	padding-right: 0;
 }
+
 .main-area {
 	height: 70vh
 }
