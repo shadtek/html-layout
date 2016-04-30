@@ -1,9 +1,10 @@
-html, body {
-	min-height: 100vh;
+html, body, div {
+	height: 100vh;
 }
 
-.side {
+.left {
 	background-color: #4A90E2;
+
 }
 
 .middle {
@@ -11,11 +12,12 @@ html, body {
 }
 
 .right .top {
+	background-color: #B8E986;
 	height: 70vh
 }
 
 .footer {
-	background-color: #222222;
+	background-color: #D0021B;
 	color: #FFFFFF;
-	height: 10vh;
+	height: 30vh;
 }
