@@ -2,3 +2,31 @@ html, body {
 	height: 100vh;
 }
 
+h2 {
+	padding: 2em;
+}
+
+.one {
+	background-color: #D8D8D8;
+	height: 6em;
+}
+
+.three {
+	background-color: #4A90E2;
+	height: 5em;
+}
+
+.four {
+	background-color: #50E3C2;
+	height: 5em;
+}
+
+.five {
+	background-color: #B8E986;
+	height: 5em;
+}
+
+.six {
+	background-color: #F8E71C;
+	height: 5em;
+}
