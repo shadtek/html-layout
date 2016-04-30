@@ -11,13 +11,15 @@ html, body, div {
 	background-color: #50E3C2;
 }
 
-.right .top {
+.top {
 	background-color: #B8E986;
 	height: 70vh
 }
 
-.footer {
+.bottom {
 	background-color: #D0021B;
 	color: #FFFFFF;
 	height: 30vh;
+	text-align: center;
+	padding: 3.5em 1em
 }
