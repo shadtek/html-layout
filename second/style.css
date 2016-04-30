@@ -1,0 +1,21 @@
+html, body {
+	min-height: 100vh;
+}
+
+.side {
+	background-color: #4A90E2;
+}
+
+.middle {
+	background-color: #50E3C2;
+}
+
+.right .top {
+	height: 70vh
+}
+
+.footer {
+	background-color: #222222;
+	color: #FFFFFF;
+	height: 10vh;
+}
